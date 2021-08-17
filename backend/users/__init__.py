@@ -1,0 +1,1 @@
+# Initialization file for User app
